@@ -1,0 +1,3 @@
+# OS가 자동으로 만드는 찌꺼기 파일 (OneDrive도 동기화하지 않음)
+.DS_Store
+Thumbs.db
